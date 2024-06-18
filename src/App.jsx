@@ -1,12 +1,12 @@
 import {} from 'react';
 import Header from './components/header';
-import Todolist from './components/todolist'
+import Todolist from './components/todolist';
 
 function App() {
   return (
     <>
       <Header />
-      <Todolist/>
+      <Todolist />
     </>
   );
 }
